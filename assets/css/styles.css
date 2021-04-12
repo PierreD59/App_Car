@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.home {
+  flex-grow: 1;
+}
+
+/*# sourceMappingURL=styles.css.map */
